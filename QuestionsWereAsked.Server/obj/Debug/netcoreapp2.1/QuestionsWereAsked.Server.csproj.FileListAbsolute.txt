@@ -1,0 +1,14 @@
+C:\Users\enigm\Source\Repos\QuestionsWereAsked\QuestionsWereAsked.Server\bin\Debug\netcoreapp2.1\QuestionsWereAsked.Server.deps.json
+C:\Users\enigm\Source\Repos\QuestionsWereAsked\QuestionsWereAsked.Server\bin\Debug\netcoreapp2.1\QuestionsWereAsked.Server.runtimeconfig.json
+C:\Users\enigm\Source\Repos\QuestionsWereAsked\QuestionsWereAsked.Server\bin\Debug\netcoreapp2.1\QuestionsWereAsked.Server.runtimeconfig.dev.json
+C:\Users\enigm\Source\Repos\QuestionsWereAsked\QuestionsWereAsked.Server\bin\Debug\netcoreapp2.1\QuestionsWereAsked.Server.dll
+C:\Users\enigm\Source\Repos\QuestionsWereAsked\QuestionsWereAsked.Server\bin\Debug\netcoreapp2.1\QuestionsWereAsked.Server.pdb
+C:\Users\enigm\Source\Repos\QuestionsWereAsked\QuestionsWereAsked.Server\bin\Debug\netcoreapp2.1\QuestionsWereAsked.Common.dll
+C:\Users\enigm\Source\Repos\QuestionsWereAsked\QuestionsWereAsked.Server\bin\Debug\netcoreapp2.1\QuestionsWereAsked.Common.pdb
+C:\Users\enigm\Source\Repos\QuestionsWereAsked\QuestionsWereAsked.Server\obj\Debug\netcoreapp2.1\QuestionsWereAsked.Server.csprojAssemblyReference.cache
+C:\Users\enigm\Source\Repos\QuestionsWereAsked\QuestionsWereAsked.Server\obj\Debug\netcoreapp2.1\QuestionsWereAsked.Server.csproj.CoreCompileInputs.cache
+C:\Users\enigm\Source\Repos\QuestionsWereAsked\QuestionsWereAsked.Server\obj\Debug\netcoreapp2.1\QuestionsWereAsked.Server.AssemblyInfoInputs.cache
+C:\Users\enigm\Source\Repos\QuestionsWereAsked\QuestionsWereAsked.Server\obj\Debug\netcoreapp2.1\QuestionsWereAsked.Server.AssemblyInfo.cs
+C:\Users\enigm\Source\Repos\QuestionsWereAsked\QuestionsWereAsked.Server\obj\Debug\netcoreapp2.1\QuestionsWereAsked.Server.csproj.CopyComplete
+C:\Users\enigm\Source\Repos\QuestionsWereAsked\QuestionsWereAsked.Server\obj\Debug\netcoreapp2.1\QuestionsWereAsked.Server.dll
+C:\Users\enigm\Source\Repos\QuestionsWereAsked\QuestionsWereAsked.Server\obj\Debug\netcoreapp2.1\QuestionsWereAsked.Server.pdb

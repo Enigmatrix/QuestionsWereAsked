@@ -1,0 +1,9 @@
+C:\Users\enigm\Source\Repos\QuestionsWereAsked\QuestionsWereAsked.Common\bin\Debug\netstandard2.0\QuestionsWereAsked.Common.deps.json
+C:\Users\enigm\Source\Repos\QuestionsWereAsked\QuestionsWereAsked.Common\bin\Debug\netstandard2.0\QuestionsWereAsked.Common.dll
+C:\Users\enigm\Source\Repos\QuestionsWereAsked\QuestionsWereAsked.Common\bin\Debug\netstandard2.0\QuestionsWereAsked.Common.pdb
+C:\Users\enigm\Source\Repos\QuestionsWereAsked\QuestionsWereAsked.Common\obj\Debug\netstandard2.0\QuestionsWereAsked.Common.csproj.CoreCompileInputs.cache
+C:\Users\enigm\Source\Repos\QuestionsWereAsked\QuestionsWereAsked.Common\obj\Debug\netstandard2.0\QuestionsWereAsked.Common.AssemblyInfoInputs.cache
+C:\Users\enigm\Source\Repos\QuestionsWereAsked\QuestionsWereAsked.Common\obj\Debug\netstandard2.0\QuestionsWereAsked.Common.AssemblyInfo.cs
+C:\Users\enigm\Source\Repos\QuestionsWereAsked\QuestionsWereAsked.Common\obj\Debug\netstandard2.0\QuestionsWereAsked.Common.dll
+C:\Users\enigm\Source\Repos\QuestionsWereAsked\QuestionsWereAsked.Common\obj\Debug\netstandard2.0\QuestionsWereAsked.Common.pdb
+C:\Users\enigm\Source\Repos\QuestionsWereAsked\QuestionsWereAsked.Common\obj\Debug\netstandard2.0\QuestionsWereAsked.Common.csprojAssemblyReference.cache
